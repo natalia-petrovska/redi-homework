@@ -1,0 +1,49 @@
+.flex-container-root {
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+  width: 300px;
+}
+
+.flex-container-output {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 450px;
+  background-image: linear-gradient(rgb(232, 254, 156), rgb(238, 235, 84));
+  font-size: 22px;
+  color: black;
+  border-radius: 10px;
+  border: none;
+  font-size: xx-large;
+}
+
+.flex-container-buttons {
+  display: flex;
+  gap: 1em;
+  justify-content: center;
+  height: 50px;
+  
+}
+
+.button-styles {
+  background-color: whitesmoke;
+  font-size: 22px;
+  color: black;
+  border-radius: 10px;
+  border: none;
+  text-align: center;
+  width: 100px;
+
+}
+
+#button-styles {
+  background-color: red;
+  font-size: 22px;
+  color: black;
+  border-radius: 10px;
+  border: none;
+  text-align: center;
+  width: 50px;
+
+}
