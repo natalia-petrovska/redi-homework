@@ -23,7 +23,6 @@
   gap: 1em;
   justify-content: center;
   height: 50px;
-  
 }
 
 .button-styles {
@@ -34,16 +33,9 @@
   border: none;
   text-align: center;
   width: 100px;
-
 }
 
-#button-styles {
+.reset-button {
   background-color: red;
-  font-size: 22px;
-  color: black;
-  border-radius: 10px;
-  border: none;
-  text-align: center;
   width: 50px;
-
 }
