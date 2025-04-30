@@ -3,7 +3,7 @@ function addOne() {
   setChanges(nextNumber);
 }
 
-function minusOne() {
+  function minusOne() {
   let nextNumber = getCurrentNumber() - 1;
   setChanges(nextNumber);
 }
